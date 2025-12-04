@@ -1,0 +1,12 @@
+locale|en
+
+SYSTEM_SYNCHRO_EMP|SPC Bremsstrahlung
+
+SYSTEM_SYNCHRO_EMP_DESC|The SPC Bremsstrahlung is the result of one man's incessant pleading for a quote "shocking good time." \n\nOriginally dismissed as nothing more than the wishes of a madman, R&D at Omaewamou-Shindeiru eventually figured out a relatively safe way to infuse gigawatts' worth of EMP potential directly into a ringoid, summoning a localized storm that separates ores from clusters with surprising gentleness. A small, hollow prong lined with tungsten and tantalum imported from Earth is fired milliseconds before an electron discharge. The resulting bremsstrahlung imparts a massive charge into the ringoid, leading to several lightning bolts arching to and from any available conductive material. It is advised to stay at least 300 meters away from any target hit for up to 3 minutes. Omaewamou-Shindeiru is not responsible for any damage to ships and/or crew resulting from premature approach. \n\nTracking of the prong and timing of discharge over several hundred meters requires advanced, continuous calculation, which quickly loses accuracy, resulting in a greatly reduced range compared to its proton counterpart.
+
+SYSTEM_SYNCHRO_EMP_SPEC|Effective range: 450 m \nPower consumption: 420 MW \nMaximum charge: 11.25 GJ \nCharge time: 30 s \nMounting Location: Side-mounts only \nMass: 17,000 kg \nManufacturer: Omaewamou-Shindeiru
+
+SYSTEM_SYNCHRO_EMP_MANUAL|Deals electromagnetic damage. \nAmount of damage dealt depends on charge level when firing. \nWILL leave residual charge in the rings.
+
+EMPSYNCHRO_MOD_DESCRIPTION|Adds new EMP SPC weapon
+EMPSYNCHRO_MOD_BRIEF|Adds new EMP SPC weapon

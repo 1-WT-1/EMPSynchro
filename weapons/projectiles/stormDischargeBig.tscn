@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://weapons/projectiles/stormDischarge.tscn" type="PackedScene" id=1]
+
+[node name="RingStormManager" instance=ExtResource( 1 )]
+stormArea = 300
+stormRange = 1024
+#fullScaleRange = 2048
+chargeLostPerSecond = 5000
+coronaTime = 1
