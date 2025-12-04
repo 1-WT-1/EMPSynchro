@@ -21,7 +21,7 @@ func _init(modLoader = ModLoader):
 # At this point all AutoLoads are available and the game is loaded
 func _ready():
 	l("Readying")
-	replaceScene("weapons/WeaponSlot.tscn")
+	#replaceScene("weapons/WeaponSlot.tscn")
 	l("Ready")
 	
 # Helper script to load translations using csv format
