@@ -1,0 +1,11 @@
+;MOD_ID|wt.EMPSynchro
+;MOD_NAME|EMP Synchrotrons
+;MOD_ZIP_NAME|EMPSynchro.zip
+
+[center][b]EMP Synchrotrons[/b][/center]
+
+Equipment mod for ΔV: Rings of Saturn.
+
+[b]What if your mining weapon fired lightning storms?[/b]
+
+This mod introduces the experimental weapon "Bremsstrahlung" - that infuses gigawatts of EMP potential directly into ringoids to gently separate ores from clusters. Dealing massive electromagnetic damage upon impact, it leaves a highly dangerous residual charge in the immediate area.

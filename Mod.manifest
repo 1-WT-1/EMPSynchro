@@ -1,30 +1,33 @@
 [mod_information]
 
-id="wt.EMPSynchro"
 name="EMPSynchro"
+id="wt.EMPSynchro"
 description="EMPSYNCHRO_MOD_DESCRIPTION"
 brief="EMPSYNCHRO_MOD_BRIEF"
 author="WT"
-credits=["ParadoxEdge - idea an help with writing"]
+credits=PoolStringArray( "ParadoxEdge - idea an help with writing" )
 
 [version]
 
 version_major=0
-version_minor=1
+version_minor=2
 version_bugfix=0
 
-[tags]
-
-[languages]
-en="100%"
-
 [links]
-HEVLIB_GITHUB={"URL":"https://github.com/1-WT-1/EMPSynchro"}
-HEVLIB_DISCORD={"URL":"https://discord.com/channels/426287934870781952/1446109228665274378"}
 
-[configs]
+HEVLIB_GITHUB={
+"URL": "https://github.com/1-WT-1/EMPSynchro"
+}
+HEVLIB_DISCORD={
+"URL": "https://discord.com/channels/426287934870781952/1446109228665274378"
+}
 
 [manifest_definitions]
+
 manifest_version=2.2
-dependancy_mod_ids=["hev.LIBRARY"]
+dependancy_mod_ids=[ {
+"blocking": true,
+"mod_id": "hev.LIBRARY"
+} ]
 manifest_url="https://raw.githubusercontent.com/1-WT-1/EMPSynchro/refs/heads/main/Mod.manifest"
+changelog_path="changelog.txt"

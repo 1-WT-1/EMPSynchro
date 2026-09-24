@@ -1,5 +1,3 @@
-extends Node
-
 const EMP_Synchro_L = {
 	"system": "SYSTEM_SYNCHRO_EMP-L",
 	"name_override": "SYSTEM_SYNCHRO_EMP",
@@ -10,8 +8,9 @@ const EMP_Synchro_L = {
 	"price": 472999,
 	"slot_type": "HARDPOINT",
 	"alignment": "ALIGNMENT_LEFT",
-	"equipment_type": "EQUIPMENT_SYNCHROTRONS"
-		}
+	"equipment_type": "EQUIPMENT_SYNCHROTRONS",
+	"weapon_slot": {"path": "res://EMPSynchro/weapons/emp_synchro.tscn"}
+}
 
 const EMP_Synchro_R = {
 	"system": "SYSTEM_SYNCHRO_EMP-R",
@@ -23,5 +22,6 @@ const EMP_Synchro_R = {
 	"price": 472999,
 	"slot_type": "HARDPOINT",
 	"alignment": "ALIGNMENT_RIGHT",
-	"equipment_type": "EQUIPMENT_SYNCHROTRONS"
-		}
+	"equipment_type": "EQUIPMENT_SYNCHROTRONS",
+	"weapon_slot": {"path": "res://EMPSynchro/weapons/emp_synchro_r.tscn"}
+}
